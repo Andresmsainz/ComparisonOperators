@@ -1,0 +1,12 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\bin\Debug\netcoreapp3.1\ComparisonOperators.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.genruntimeconfig.cache
