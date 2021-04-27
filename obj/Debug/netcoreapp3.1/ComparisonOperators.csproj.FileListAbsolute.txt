@@ -10,3 +10,4 @@ C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\obj\Debu
 C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.dll
 C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.pdb
 C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.genruntimeconfig.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ComparisonOperators\obj\Debug\netcoreapp3.1\ComparisonOperators.csprojAssemblyReference.cache
